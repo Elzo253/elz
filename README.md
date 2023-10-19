@@ -3,7 +3,7 @@
 -----
 ##Ajudante Geral
 ##Padeiro
-Forneiro
-Estudante TI
+eletricista
+Estudante engenharia
 
-Sempre melhorar
+Sempre melhorar sempre
